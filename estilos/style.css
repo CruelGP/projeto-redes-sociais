@@ -31,14 +31,14 @@ iframe#tela
 {position: relative;
 top: 81px;
 left: 23px;
-height: 471px;
+height: 468px;
 width: 265px;}
 
 section#redes-sociais
 {text-align: right;}
 
 section#redes-sociais > a
-{padding: 10px;}
+{}
 
 section#redes-sociais > a >img
 {width:50px;
